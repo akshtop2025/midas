@@ -160,18 +160,18 @@
 /*** Navbar End ***/
 
 /*** Carousel Start ***/
-.carousel-item {
+/* .carousel-item {
     position: relative;
     min-height: 100vh
     
-}
+} */
 
-.carousel-item img {
+/* .carousel-item img {
     position: absolute;
     width: 100%;
     height: 100%;
     object-fit: cover;
-}
+} */
 
 .carousel-item .carousel-caption {
     /* width: 100%;
@@ -271,8 +271,8 @@
 /*** Youtube Video start ***/
 .video {
     position: relative;
-    padding-right: 70px; 
-    padding-bottom: 70px;
+    /* padding-right: 70px; 
+    padding-bottom: 70px; */
     border-radius: 10px;
 }
 
@@ -604,7 +604,7 @@
 }
 
 .testimonial .testimonial-item {
-    background: rgba(0, 0, 0, 0.4);
+    background: #5e2a43;
 }
 
 .testimonial .owl-carousel.testimonial-carousel {
