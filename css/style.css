@@ -221,7 +221,7 @@
 
 
 .bg-breadcrumb {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/appointment-background.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/appointment-background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -597,7 +597,7 @@
 
 /*** testimonial Start ***/
 .testimonial {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/testimonial-bg.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/testimonial-bg.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -637,7 +637,7 @@
 
 /*** Contact Start ***/
 .contact {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/appointment-background.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/appointment-background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -674,3 +674,5 @@
     background: #5e2a43 !important;
 }
 /*** copyright end ***/
+
+
